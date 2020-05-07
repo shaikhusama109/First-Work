@@ -1,0 +1,538 @@
+.top{
+    background-color: #316DC3;
+    
+    width:1000px; height: 70px;
+  display:flex; 
+     justify-content:space-around;
+}
+
+.fb{
+    padding-top: 20px;
+}
+.twitter{
+    padding-top: 20px;
+}
+.insta{
+    padding-top: 20px;
+}
+.youtube{
+    padding-top: 20px;
+}
+.whatsapp{
+    padding-top: 20px;
+}
+ 
+.para1{
+    width: 400px;
+     color: aliceblue;
+     padding-bottom: 20px;
+     
+
+}
+.donate{
+    color: green;
+    display: inline-flex;
+    justify-content: space-around ;
+    padding-top: 20px;
+}
+
+.header{
+    display: flex;
+    width:1000px;
+    height: 5px;
+    justify-content: space-around;
+    color: black;
+    background: white;
+    
+}
+.third{
+   
+    margin-top: 80px;
+}
+.marquee{
+    width:1000px ; height:30px ;
+    background-color:#316DC3 ;
+     padding-top: 10px;
+     
+
+}
+
+
+.heading{
+    background-color: lightgrey;
+    width:1000px ;
+    height: 700px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.int{
+    color: #316DC3 ;
+    display: inline-flex;
+    padding-top: 50px;
+    
+}
+
+.duc{
+color: #427900;
+display: inline-flex;
+padding-top: 50px;
+
+}
+
+.icon{
+   width:40px ;  height: 20px;
+    text-align: center;
+    padding-left: 470px;
+
+}
+
+.p1{
+ color: grey;
+ padding-left: 100px;
+ padding-right: 100px;
+ padding-top:30px ;
+ line-height: 23px;
+ word-spacing: 2px;
+ font-size: medium;
+
+}
+
+
+ 
+.p2{
+        color: grey;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top:40px ;
+        line-height: 23px;
+        word-spacing: 2px;
+        font-size: medium;
+       
+       
+       
+}
+
+.p3{
+    color: grey;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:40px ;
+    line-height: 23px;
+    word-spacing: 2px;
+    font-size: medium;
+   
+   
+   
+}
+.p4{
+    color: grey;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:40px ;
+    line-height: 23px;
+    word-spacing: 2px;
+    font-size: medium;
+   
+   
+   
+}
+
+
+.monthly{
+
+background: #2655E8;
+ width: 1000px; height: 400px;
+ justify-content: space-around;
+ margin-top: 20px;
+ 
+}
+
+.logos{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top:80px ;
+    word-spacing: 150px;
+
+    }
+    
+.count{
+    font-size: 50px;
+    word-spacing:50px ;
+    padding-right: 90px;
+    padding-left: 90px;
+    color: white;
+   
+}    
+    
+.work{
+   
+    color: white;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: inline-flex;
+    
+}
+
+.family{
+    padding-right: 10px;
+    padding-left: 120px;
+}
+
+.medical{
+    padding-right: 30px;
+    padding-left: 100px;
+}
+
+.educ{
+    padding-right: 70px;
+    padding-left: 100px;
+}
+
+.doing{
+    background-color: lightgrey;
+    width:1000px ;
+    height: 700px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.h1{
+    color: #316DC3 ;
+    display: inline-flex;
+    padding-top: 50px;
+    
+}
+
+.h2{
+color: #427900;
+display: inline-flex;
+padding-top: 50px;}
+
+.done{
+    padding-top: 50px;
+    display: inline-flex;
+
+}
+.sadqah{
+    
+    color: #316DC3;
+    width: 200px; height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:40px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+   
+    
+}
+
+.welfare{
+    color: #316DC3;
+    width: 200px; height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:40px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    
+}
+
+.medic{
+    color: #316DC3;
+    width: 200px; height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:40px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;    
+    
+}
+
+.done2{
+    padding-top: 50px;
+    display: inline-flex;
+
+}
+
+.dastar{
+    
+    color: #316DC3;
+    width: 200px; height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:40px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+   
+    
+}
+
+.water{
+    color: #316DC3;
+    width: 200px; height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:40px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    
+}
+
+.ed{
+    color: #316DC3;
+    width: 200px; height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:40px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;    
+    
+}
+
+.abu{
+    width: 1000px;
+    height: 900px;
+}
+
+.missions{
+    width: 1000px;
+    display: inline-flex;
+}
+.projects{
+    color: #316DC3;
+   padding-left: 30px;
+    padding-top: 40px;
+    display: inline-flex;
+}
+
+.events{
+    color: #316DC3;
+    padding-left: 300px;
+    display: inline-flex;
+    padding-top: 40px;
+     
+}
+
+.twoboxes{
+display: inline-flex;
+width: 1000;}
+
+.marq{
+        width: 300px;
+        height: 90px;
+        display: inline-flex;
+        padding-left: 40px;
+        word-spacing: 2px;
+        line-break: normal;
+
+}
+
+
+.hepatitus{
+   padding-left:20px ;
+    margin-left: 20px;
+ display: inline-flex;
+ width: 280px;
+ height: 80px;
+ background-color: lightgrey;
+
+}
+
+.house{
+    padding-left:20px ;
+    margin-left: 30px;
+    display: inline-flex;
+ width: 280px;
+ height: 80px;
+ background-color: lightgrey;
+
+}
+
+
+
+.it{
+    margin-top: 30px;
+    padding-left:20px ;
+     margin-left: 20px;
+  display: inline-flex;
+  width: 280px;
+  height: 80px;
+  background-color: lightgrey;
+ 
+ }
+ 
+ .thar{
+     margin-top: 30px;
+     padding-left:20px ;
+     margin-left: 30px;
+     display: inline-flex;
+  width: 280px;
+  height: 80px;
+  background-color: lightgrey;
+ 
+ }
+
+ 
+ .gallery{
+    
+    text-align: center;
+    padding-top:140px ;
+    display: inline-flex;
+}
+
+.imgs{
+    color: #316DC3 ;
+    display: inline-flex;
+    padding-left:350px ;
+    
+}
+
+.gall{
+    color: #427900;
+    padding-left: 20px;
+display: inline-flex;
+
+}
+
+.image101{
+    padding-top: 20px;
+    display: inline-flex;
+    padding-right:10px ;
+    padding-left:10px;
+}
+.img1{
+    display: inline-flex;
+    padding-top: 40px;
+    padding-left:20px ;
+}
+.img2{
+    display: inline-flex;
+    padding-top: 30px;
+}
+.img3{
+    display: inline-flex;
+    padding-top: 30px;
+}
+.img4{
+    display: inline-flex;
+    padding-top: 30px;
+}
+.img5{
+    display: inline-flex;
+    padding-top: 30px;
+}
+.bio{
+    background-color:#25272E ;
+    width: 1000px;
+    height:500px ;
+}
+.firstcol{
+   
+    width:1000px ;
+    display: inline-flexbox;
+    
+
+}
+.address{
+    width:280px ;
+    color: white;
+    line-height:25px;
+    padding-top:70px ;
+    padding-left: 40px;
+    display: inline-flex;
+}
+.phone1{
+  
+   width: 300px;
+   padding-top:10px ;
+   padding-left:50px ;
+   padding-right:40px ;
+ 
+
+}
+.ph1{
+ display: inline-flex;   
+}
+.ph11{
+    
+    color:white ;
+  display: inline-flex;
+  padding-left: 20px;
+  font-size: small;
+}
+
+.secondcol{
+    width: 270px ;
+    color:white ;
+    padding-left: 100px;
+    display: inline-flex;
+    
+}
+.thirdcol{
+    width: 270px ;
+    display: inline-flex;
+    
+}
+.contact{
+    display: inline-flex;
+    padding-left: 40px;
+    color:white ;
+    width: 300px;
+
+}
+
+.contact1
+{
+    display: inline-flex;
+    padding-right: 100px;
+    padding-top:100px ;
+    justify-content: space-around;
+}
+.fb2{
+   
+    display: inline-flex;
+    
+    
+}
+.twitter2{
+
+    display: inline-flex;
+}
+.insta2{
+    
+    display: inline-flex;
+}
+.youtube2{
+   
+    display: inline-flex;
+}
+.whatsapp2{
+   
+    display: inline-flex;
+    
+}
+.closing{
+    margin-top:100px ;
+    width: 1000px;
+    height: 70px;
+    background-color: #316DD9;
+
+}
+
+.copyright{
+    padding-top:30px ;
+    padding-right: 100px;
+    font-size: smaller;
+    
+    color:white ;
+}
